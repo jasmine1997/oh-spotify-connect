@@ -17,3 +17,7 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+- Update user recently played data
+```
+python manage.py update_data
+```
