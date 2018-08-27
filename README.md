@@ -1,6 +1,6 @@
-# Google Takeout - Location History
+# SpotifyConnect
 
-This project allows users to upload their Location History from the Google Takeout archive to OpenHumans, and visualize the same on an interactive heatmap
+This connects your Spotify account to OpenHumans and recommends music to you based on a set of parameters that you can tweak
 
 To run the project from source:
 
